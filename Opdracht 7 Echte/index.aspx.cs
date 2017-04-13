@@ -14,11 +14,6 @@ namespace Opdracht_7_Echte
 
         public static class Globals
         {
-            public static Int32 getal1; // Getal1 voor de rekenmachine
-            public static Int32 getal2;
-            public static Int32 getal3;
-            public static Int32 getal4;
-            public static Int32 getal5;
             public static Int32 cijfer = 10;
         }
 
